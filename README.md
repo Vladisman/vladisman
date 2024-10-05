@@ -1,8 +1,5 @@
 <div id="header" align="center">
   <h1>Hi there, I'm Vladislav</h1>
-  <a href="https://t.me/vlad_isman"> 
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
 </div>
 
 ### Languages and Tools:
